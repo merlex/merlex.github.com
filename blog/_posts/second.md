@@ -2,9 +2,8 @@
 title: Second post
 date: 2022-11-17
 tags:
-- deploy
+- test
 - blog
-- vuepress
 author: merlex
 ---
 ## Second post
