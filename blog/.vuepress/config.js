@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'Merlex Github Blog',
+    title: 'Merlex Blog',
     theme: "@vuepress/theme-blog",
     plugins: [
     ],

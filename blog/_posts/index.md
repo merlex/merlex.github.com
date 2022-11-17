@@ -1,5 +1,5 @@
 ---
-title: First step
+title: First post
 date: 2022-11-16
 tags:
   - deploy
@@ -7,6 +7,6 @@ tags:
   - vuepress
 author: merlex
 ---
-## Test Page
+## First post
 
-A GitHub Action to build and deploy Vuepress sites to GitHub Pages
+Used a GitHub Action to build and deploy Vue press sites to GitHub Pages
